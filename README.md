@@ -18,3 +18,4 @@ This is a full-stack data analytics application built with **R Shiny** to visual
 1. Clone this repository.
 2. Open hospital_metrics_app.R in RStudio.
 3. Click "Run App".
+<img width="1438" height="874" alt="Screenshot 2025-11-25 at 2 59 27 PM" src="https://github.com/user-attachments/assets/e7bb9f0e-b3b7-404d-ad32-ebb66119627f" />
